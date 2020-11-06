@@ -1,24 +1,13 @@
-# README
+# ruby-5 college stuff
+Užduoties tikslas - sukurti naują Ruby on Rails projektą. Parašyti statinį (nenaudojant input formų logikos ar duomenų bazės) tinklalapį.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Privalo būti:
 
-Things you may want to cover:
+- Mažiausiai 4 skirtingi puslapiai;
+- Visi puslapiai pasiekiami navigacijos menu pagalba, kuri aprašyta viename iš layouts failų;
+- Mažiausiai 2 skirtingi Controller (NEįskaitnat application_controller.rb);
+- Įgyvendintas dizainas (pavyzdžiui W3.CSS);
+- Logiškai panaudotas "before_action";
+- Rašomas nepasikartojantis kodas (DRY).
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
